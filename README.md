@@ -13,7 +13,7 @@ The raw dataset required cleaning and transformation before analysis. I used Adv
 ### 1. Job Openings Analysis
 Explores the distribution of job openings by job title, location, work mode, and posting trends over time.
 
-![Job Openings Analysis](./01_Job_Openings_Analysis.png)
+![Job Openings Analysis](./Job Openings Analysis.png)
 
 ### 2. Salary Analysis
 Examines salary patterns across job roles, industries, experience levels, and education levels.
