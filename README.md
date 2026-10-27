@@ -1,114 +1,77 @@
-# company-job-postings-analysis-powerbi
-Interactive Power BI dashboard analyzing job postings, salary trends and in-demand skills  using Advanced Excel, Power Query and Power BI
+# Job Postings Analysis Dashboard | Power BI
+
+An interactive three-page Power BI dashboard exploring job openings, salary patterns, and in-demand skills using a dataset containing over 10,000 records and 22 columns.
 
 ## Project Overview
 
-This project is based on a company's job openings dataset containing **10,000+ rows and 22 columns**. The dataset includes information related to job titles, salaries, locations, experience levels, education requirements, work modes, industries, and required skills.
+This project analyzes job posting data to explore hiring patterns, salary differences, work arrangements, and skill requirements.
 
-The raw dataset contained messy and inconsistent data that needed to be cleaned before analysis. I used **Advanced Excel and Power Query** to prepare and transform the data, followed by Microsoft Power BI to develop an interactive dashboard.
+The raw dataset required cleaning and transformation before analysis. I used Advanced Excel and Power Query to prepare the data, then developed an interactive dashboard in Microsoft Power BI.
 
-The objective was to turn raw job posting data into a structured report that makes it easier to explore hiring patterns, compare salary information, and understand skill demand.
-
-## Project Objectives
-
-- Clean and prepare a large, messy dataset for analysis.
-- Explore the distribution of job openings across different categories.
-- Analyze salary patterns across job roles and other relevant factors.
-- Identify frequently requested technical skills.
-- Examine job posting trends over time.
-- Build an interactive, multi-page dashboard for data exploration.
-
-## Tools & Technologies
-
-- **Advanced Microsoft Excel** — Data inspection and initial cleaning.
-- **Power Query** — Data cleaning, transformation, and preparation.
-- **Microsoft Power BI** — Data visualization, interactive reporting, and dashboard development.
-
-## Dashboard Pages
+## Dashboard Preview
 
 ### 1. Job Openings Analysis
+Explores the distribution of job openings by job title, location, work mode, and posting trends over time.
 
-This page provides an overview of job postings and their distribution across key categories.
-
-**Areas explored:**
-- Job openings across job titles and countries.
-- Distribution of remote, hybrid, and onsite opportunities.
-- Job posting trends over time.
-- Key metrics summarizing the available job postings.
-- Interactive filtering to explore different segments of the data.
+![Job Openings Analysis](./01_Job_Openings_Analysis.png)
 
 ### 2. Salary Analysis
+Examines salary patterns across job roles, industries, experience levels, and education levels.
 
-This page focuses on salary patterns and comparisons across different job categories.
-
-**Areas explored:**
-- Salary comparisons across job titles.
-- Salary patterns across industries.
-- Salary differences by experience level.
-- Salary comparisons by education level.
-
-These views help explore how salary figures vary across different characteristics of job postings.
+![Salary Analysis](./02_Salary_Analysis.png)              
 
 ### 3. Skills Overview
+Explores the demand for technical skills, including Python, SQL, Cloud, Machine Learning, and Deep Learning.
 
-This page focuses on the skills mentioned in job postings and their relative demand.
+![Skills Overview](./03_Skills_Overview.png)
 
-**Areas explored:**
-- Frequently requested skills.
-- Demand for skills such as Python, SQL, Cloud, Machine Learning, and Deep Learning.
-- Comparisons of skill demand across relevant categories.
-- Skill-related trends over time.
+## Dataset Overview
 
-This page helps explore which technical skills appear frequently in the dataset.
+- **Records:** 10,000+
+- **Columns:** 22
+- **Subject:** Company job openings
+- **Data preparation tools:** Advanced Excel and Power Query
 
-## Data Cleaning & Preparation
+The dataset includes information related to job titles, salaries, locations, work modes, experience levels, education requirements, and skills.
 
-Before building the dashboard, I worked on preparing the raw dataset for analysis.
+## Data Cleaning and Transformation
 
-The process included:
-- Inspecting the dataset and identifying data-quality issues.
-- Cleaning inconsistent and messy values.
-- Transforming columns into appropriate formats where required.
-- Preparing the data for meaningful comparisons and visualizations.
-- Using the cleaned data to build the Power BI report.
+The data preparation process involved:
+- Inspecting the raw dataset.
+- Cleaning and transforming data using Advanced Excel and Power Query.
+- Preparing fields for consistent analysis.
+- Organizing the data for visualization in Power BI.
 
-**Tools used for preparation:** Advanced Excel and Power Query.
+## Analysis Areas
 
-## Key Analytical Takeaways
+### Job Openings Analysis
+- Distribution of job openings across job titles and locations.
+- Breakdown of remote, hybrid, and onsite opportunities.
+- Job posting trends over time.
 
-The dashboard is designed to help explore several questions:
+### Salary Analysis
+- Salary comparisons across job roles.
+- Salary patterns by industry.
+- Analysis by experience and education levels.
 
-- How are job openings distributed across job titles and countries?
-- How do salary figures vary across roles, industries, experience levels, and education levels?
-- Which technical skills appear most frequently in job postings?
-- How are job opportunities distributed across remote, hybrid, and onsite work modes?
-- How does job posting activity change over time?
+### Skills Overview
+- Exploration of in-demand technical skills.
+- Comparison of skill demand across categories.
+- Analysis of skills such as Python, SQL, Cloud, Machine Learning, and Deep Learning.
 
-The answers can be explored through the dashboard's visuals and interactive filters. Specific findings should be interpreted in the context of the dataset and its coverage.
+## Tools and Technologies
 
-## Interactivity
-
-The report includes interactive slicers and visual interactions that allow users to filter the data and explore different aspects of job postings.
-
-The three pages work together to provide an overview of job openings, salary analysis, and skill demand.
-
-## Project Files
-
-- **Power BI report (`.pbix`)** — The report file, if included in this repository.
-- **Dashboard screenshots** — Visual previews of the three dashboard pages.
-- **README.md** — Project documentation.
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- Data Visualization
-- Dashboard Development
-- Power Query
-- Microsoft Excel
 - Microsoft Power BI
+- Microsoft Excel
+- Power Query
 
-## Project Type
+## Repository Contents
 
-Personal Data Analytics Project
+- **Dashboard:** Interactive Power BI report (`.pbix`).
+- **Screenshots:** Images of the three dashboard pages.
+- **Dataset:** Original job postings dataset.
+- **README.md:** Project documentation.
+
+## Project Objective
+
+The objective was to apply data cleaning, transformation, analysis, and visualization techniques to explore patterns in job posting data and communicate findings through an interactive dashboard.
