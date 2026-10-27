@@ -1,6 +1,6 @@
 # Job Postings Analysis Dashboard | Power BI
 
-An interactive three-page Power BI dashboard exploring job openings, salary patterns, and in-demand skills using a dataset containing over 10,000 records and 22 columns.
+An interactive three-page Power BI dashboard exploring job openings, salary patterns and in demand skills using a dataset containing over 10,000 records and 22 columns.
 
 ## Project Overview
 
