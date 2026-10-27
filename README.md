@@ -1,11 +1,7 @@
 # company-job-postings-analysis-powerbi
 Interactive Power BI dashboard analyzing job postings, salary trends and in-demand skills  using Advanced Excel, Power Query and Power BI
 
-# Job Postings Analysis Dashboard | Power BI
-
-An interactive, three-page Power BI dashboard exploring job openings, salary patterns, and in-demand skills using job posting data.
-
-## 📌 Project Overview
+## Project Overview
 
 This project is based on a company's job openings dataset containing **10,000+ rows and 22 columns**. The dataset includes information related to job titles, salaries, locations, experience levels, education requirements, work modes, industries, and required skills.
 
@@ -13,7 +9,7 @@ The raw dataset contained messy and inconsistent data that needed to be cleaned 
 
 The objective was to turn raw job posting data into a structured report that makes it easier to explore hiring patterns, compare salary information, and understand skill demand.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Clean and prepare a large, messy dataset for analysis.
 - Explore the distribution of job openings across different categories.
@@ -22,13 +18,13 @@ The objective was to turn raw job posting data into a structured report that mak
 - Examine job posting trends over time.
 - Build an interactive, multi-page dashboard for data exploration.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Advanced Microsoft Excel** — Data inspection and initial cleaning.
 - **Power Query** — Data cleaning, transformation, and preparation.
 - **Microsoft Power BI** — Data visualization, interactive reporting, and dashboard development.
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Job Openings Analysis
 
@@ -65,7 +61,7 @@ This page focuses on the skills mentioned in job postings and their relative dem
 
 This page helps explore which technical skills appear frequently in the dataset.
 
-## 🔍 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Before building the dashboard, I worked on preparing the raw dataset for analysis.
 
@@ -90,19 +86,19 @@ The dashboard is designed to help explore several questions:
 
 The answers can be explored through the dashboard's visuals and interactive filters. Specific findings should be interpreted in the context of the dataset and its coverage.
 
-## ⚙️ Interactivity
+## Interactivity
 
 The report includes interactive slicers and visual interactions that allow users to filter the data and explore different aspects of job postings.
 
 The three pages work together to provide an overview of job openings, salary analysis, and skill demand.
 
-## 📁 Project Files
+## Project Files
 
 - **Power BI report (`.pbix`)** — The report file, if included in this repository.
 - **Dashboard screenshots** — Visual previews of the three dashboard pages.
 - **README.md** — Project documentation.
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -116,5 +112,3 @@ The three pages work together to provide an overview of job openings, salary ana
 ## 👤 Project Type
 
 Personal Data Analytics Project
-
-*This project was created for learning and portfolio purposes. Dataset ownership and permission to redistribute the source data should be verified before sharing it p
