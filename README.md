@@ -32,7 +32,7 @@ Explores the demand for technical skills, including Python, SQL, Cloud, Machine 
 - **Subject:** Company job openings
 - **Data preparation tools:** Advanced Excel and Power Query
 
-The dataset includes information related to job titles, salaries, locations, work modes, experience levels, education requirements, and skills.
+The dataset includes information related to job titles, salaries, locations, work modes, hiring urgency, experience levels, education requirements, skills and other such type of total 22 columns.
 
 ## Data Cleaning and Transformation
 
