@@ -13,17 +13,17 @@ The raw dataset required cleaning and transformation before analysis. I used Adv
 ### 1. Job Openings Analysis
 Explores the distribution of job openings by job title, location, work mode, and posting trends over time.
 
-![Job Openings Analysis](./Job Openings Analysis.png)
+![Job Openings Analysis](./Job%20Openings%20Analysis.png)
 
 ### 2. Salary Analysis
 Examines salary patterns across job roles, industries, experience levels, and education levels.
 
-![Salary Analysis](./02_Salary_Analysis.png)              
+![Salary Analysis](./Salary%20Analysis.png)              
 
 ### 3. Skills Overview
 Explores the demand for technical skills, including Python, SQL, Cloud, Machine Learning, and Deep Learning.
 
-![Skills Overview](./03_Skills_Overview.png)
+![Skills Overview](./Skills%20Overview.png)
 
 ## Dataset Overview
 
