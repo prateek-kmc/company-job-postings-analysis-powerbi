@@ -74,7 +74,7 @@ The process included:
 
 **Tools used for preparation:** Advanced Excel and Power Query.
 
-## 💡 Key Analytical Takeaways
+## Key Analytical Takeaways
 
 The dashboard is designed to help explore several questions:
 
@@ -109,6 +109,6 @@ The three pages work together to provide an overview of job openings, salary ana
 - Microsoft Excel
 - Microsoft Power BI
 
-## 👤 Project Type
+## Project Type
 
 Personal Data Analytics Project
